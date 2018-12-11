@@ -1,2 +1,2 @@
-# exercism_c
-HSU
+# HSU - System Programming
+Exercism C track
